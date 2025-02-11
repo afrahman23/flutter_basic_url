@@ -69,4 +69,6 @@ id "com.android.application" version "8.3.2" apply false
 
 
 ## References:
+- https://www.cybrosys.com/blog/how-to-install-and-configure-flutter-url-launcher
+- https://stackoverflow.com/questions/69619829/could-not-resolve-all-files-for-configuration-appandroidjdkimage
 - https://www.youtube.com/watch?v=Wthmab2pI-o
